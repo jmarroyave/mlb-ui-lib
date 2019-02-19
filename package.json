@@ -1,0 +1,33 @@
+{
+  "name": "mlb-ui-lib",
+  "description": "MLB ui components library",
+  "version": "1.0.1",
+  "devDependencies": {
+    "babel-preset-react": "^6.24.1",
+    "react": "^16.8.2",
+    "rollup": "^1.2.2",
+    "rollup-plugin-babel": "^4.3.2",
+    "rollup-plugin-uglify": "^6.0.2"
+  },
+  "scripts": {
+    "build": "rollup -c -o dist/countdown.min.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "index.js",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmarroyave/mlb-ui-lib.git"
+  },
+  "keywords": [
+    "mlb",
+    "components",
+    "react"
+  ],
+  "author": "jmarroyave",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmarroyave/mlb-ui-lib/issues"
+  },
+  "homepage": "https://github.com/jmarroyave/mlb-ui-lib#readme"
+}
