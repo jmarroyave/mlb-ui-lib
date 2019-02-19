@@ -1,3 +1,14 @@
+<h2 align="center">React MLB ui library</h2>
+<p align="center">
+<strong>Set of ui components</strong>
+<br><br>
+<a href="https://npmjs.com/package/mlb-ui-lib"><img src="https://img.shields.io/npm/dm/mlb-ui-lib.svg"></a>
+<a href="https://npmjs.com/package/mlb-ui-lib"><img src="https://img.shields.io/npm/v/mlb-ui-lib.svg"></a>
+<img src="http://img.badgesize.io/https://unpkg.com/mlb-ui-lib/dist/mlb-ui-lib.min.js?compression=gzip&label=gzip%20size">
+<img src="http://img.badgesize.io/https://unpkg.com/mlb-ui-lib/dist/mlb-ui-lib.min.js?label=size">
+<img src="https://img.shields.io/badge/module%20formats-umd%2C%20cjs%2C%20esm-green.svg">
+</p>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jmarroyave/mlb-ui-lib/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
