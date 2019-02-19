@@ -1,6 +1,6 @@
-<h2 align="center">React MLB ui library</h2>
-<p align="center">
-<strong>Set of ui components</strong>
+<h2>React MLB ui library</h2>
+<p>
+<strong>Set of UI components</strong>
 <br><br>
 <a href="https://npmjs.com/package/mlb-ui-lib"><img src="https://img.shields.io/npm/dm/mlb-ui-lib.svg"></a>
 <a href="https://npmjs.com/package/mlb-ui-lib"><img src="https://img.shields.io/npm/v/mlb-ui-lib.svg"></a>
