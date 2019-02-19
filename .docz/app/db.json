@@ -1,0 +1,44 @@
+{
+  "config": {
+    "title": "MLB UI Lib",
+    "description": "MLB UI library",
+    "menu": [],
+    "ordering": "descending",
+    "version": "1.0.1",
+    "repository": "https://github.com/jmarroyave/mlb-ui-lib",
+    "native": false,
+    "codeSandbox": true,
+    "themeConfig": {},
+    "src": "./src/",
+    "files": "**/*.{md,markdown,mdx}"
+  },
+  "entries": {
+    "components/player_image.mdx": {
+      "name": "Player Image",
+      "id": "7527a4d08673c8060d65024336f95136",
+      "filepath": "components/player_image.mdx",
+      "link": "https://github.com/jmarroyave/mlb-ui-lib/edit/master/src/components/player_image.mdx",
+      "slug": "components-player-image",
+      "route": "/components-player-image",
+      "order": 0,
+      "menu": null,
+      "headings": [
+        {
+          "depth": 1,
+          "slug": "player-image",
+          "value": "Player Image"
+        },
+        {
+          "depth": 2,
+          "slug": "properties",
+          "value": "Properties"
+        },
+        {
+          "depth": 2,
+          "slug": "basic-usage",
+          "value": "Basic Usage"
+        }
+      ]
+    }
+  }
+}

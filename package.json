@@ -3,7 +3,10 @@
   "description": "MLB ui components library",
   "version": "1.0.1",
   "devDependencies": {
-    "babel-preset-react": "^6.24.1",
+    "@babel/preset-env": "^7.3.1",
+    "@babel/preset-react": "^7.0.0",
+    "docz": "^0.13.7",
+    "docz-theme-default": "^0.13.7",
     "react": "^16.8.2",
     "rollup": "^1.2.2",
     "rollup-plugin-babel": "^4.3.2",
@@ -11,9 +14,10 @@
   },
   "scripts": {
     "build": "rollup -c -o dist/countdown.min.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docz:dev": "docz dev",
+    "docz:build": "docz build"
   },
-  "main": "index.js",
   "dependencies": {},
   "repository": {
     "type": "git",

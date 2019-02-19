@@ -1,4 +1,6 @@
 import React from 'react';
+import t from 'prop-types'
+
 
 class PlayerImageComponent extends React.Component {
 	render(){
@@ -39,3 +41,12 @@ class PlayerImageComponent extends React.Component {
 }
 
 export default PlayerImageComponent;
+
+PlayerImageComponent.propTypes = {
+	id: t.number.isRequired,
+	size: t.oneOf(['xs', 's', 'fit']),
+}
+
+PlayerImageComponent.defaultProps = {
+	size: 'xs',
+}
